@@ -1,0 +1,6 @@
+HI Ivan... We have a few things that are not working.
+
+1. Can you please look at this in outlook. It's really bad when viewed in that. We will need to fix that. 
+2. Also in Gmail, the example-img does not show for some reason.
+3. Can we make that example image smaller? It's really big. I had to make it smaller so blue Hornet would except it. That is whom we use for sending out emails.
+4. Also, the logo looks really blurry. Can we please look at that. This is for both email cuts.
